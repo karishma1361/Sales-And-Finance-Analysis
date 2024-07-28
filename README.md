@@ -1,4 +1,4 @@
-https://github.com/karishma1361/Sales-And-Finance-Analysis/blob/main/Project.README.md.file.pdf
+
 
 **Problem Statement:** 
 AtliQ Hardwares, a leading hardware company specializing in PCs, printers, mouses, and 
