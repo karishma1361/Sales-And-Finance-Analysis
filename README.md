@@ -40,6 +40,7 @@ Welcome to data- driven transformation!
 
 **Project 2: Financial Analysis and Reporting** 
 
+**objective:**
  Created detailed Profit and Loss (P&L) reports categorized by Fiscal Year and Months. 
 Produced P&L reports segmented by Markets. 
 
